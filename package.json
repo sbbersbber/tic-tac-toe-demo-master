@@ -11,7 +11,7 @@
     "perf": "parcel performance.html"
   },
   "dependencies": {
-    "dot": "^1.1.2"
+    "dot": "^1.1.3"
   },
   "devDependencies": {
     "lodash": "^4.17.5"
